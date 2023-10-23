@@ -1,5 +1,5 @@
 ###  👋, Cześć jestem Dawid
-Jestem uczniem technikum informatycznego i moim celem jest Frontend Developerem
+Jestem absolwentem technikum informatycznego i moim celem jest Frontend Developerem
 
 <h2>Moje sociale</h2>
 
