@@ -26,10 +26,10 @@ Moje obszary działań to:
 
 <div align="left">
   <a href="https://github.com/Skepciak">
-    <img src="https://github-readme-stats.vercel.app/api?username=Skepciak&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&locale=pl" alt="Statystyki Dawida" />
+    <img src="https://github-readme-stats.azurewebsites.net/api?username=Skepciak&show_icons=true&theme=tokyonight&hide_border=true&locale=pl" alt="Statystyki Dawida" />
   </a>
   <a href="https://github.com/Skepciak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skepciak&layout=compact&theme=tokyonight&hide_border=true&locale=pl" alt="Najczęściej używane języki" />
+    <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=Skepciak&layout=compact&theme=tokyonight&hide_border=true&locale=pl" alt="Najczęściej używane języki" />
   </a>
 </div>
 
