@@ -29,7 +29,7 @@ Moje obszary działań to:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Skepciak&theme=tokyonight" alt="Statystyki Dawida" />
   </a>
   <a href="https://github.com/Skepciak">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Skepciak&theme=tokyonight" alt="Najczęściej używane języki" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skepciak&layout=compact&theme=tokyonight&hide_border=true" alt="Najczęściej używane języki" />
   </a>
 </div>
 
