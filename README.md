@@ -24,15 +24,9 @@ Moje obszary działań to:
 
 ### 📊 Statystyki GitHub
 
-<div align="left">
-  <a href="https://github.com/Skepciak">
-    <img src="https://github-readme-stats.vercel.app/api?username=Skepciak&show_icons=true&theme=tokyonight&hide_border=true" alt="Statystyki Dawida" />
-  </a>
-  <br/>
-  <a href="https://github.com/Skepciak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skepciak&layout=compact&theme=tokyonight&hide_border=true" alt="Najczęściej używane języki" />
-  </a>
-</div>
+[![Statystyki Dawida](https://github-readme-stats.vercel.app/api?username=Skepciak&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Skepciak)
+
+[![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=Skepciak&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Skepciak)
 
 ---
 
