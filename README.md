@@ -8,9 +8,9 @@ Jestem **Informatykiem i Administratorem Sieci**, dbającym o niezawodność inf
 Równolegle rozwijam się jako **Student Informatyki**, zgłębiając tajniki programowania i nowoczesnych technologii webowych.
 
 Moje obszary działań to:
-*   🌐 **Administracja Sieciami**: Zarządzanie serwerami, wirtualizacja i dbanie o ciągłość usług.
-*   🎨 **Frontend Development**: Projektowanie nowoczesnych i responsywnych interfejsów (React, Tailwind).
-*   ⚙️ **Backend**: Tworzenie wydajnej logiki w aplikacjach webowych i mobilnych.
+* 🌐 **Administracja Sieciami**: Zarządzanie serwerami, wirtualizacja i dbanie o ciągłość usług.
+* 🎨 **Frontend Development**: Projektowanie nowoczesnych i responsywnych interfejsów (React, Tailwind).
+* ⚙️ **Backend**: Tworzenie wydajnej logiki w aplikacjach webowych i mobilnych.
 
 ---
 
@@ -24,18 +24,33 @@ Moje obszary działań to:
 
 ### 📊 Statystyki GitHub
 
-[![Statystyki Dawida](https://github-readme-stats-drab-seven-88.vercel.app/api?username=Skepciak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/Skepciak)
+<div align="center">
 
+[![Statystyki Dawida](https://github-readme-stats-drab-seven-88.vercel.app/api?username=Skepciak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/Skepciak)
 [![Najczęściej używane języki](https://github-readme-stats-drab-seven-88.vercel.app/api/top-langs/?username=Skepciak&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/Skepciak)
+
+</div>
 
 ---
 
 ### 📫 Jak się ze mną skontaktować
-- **Email**: [skepta100@gmail.com](mailto:skepta100@gmail.com)
-- **Discord**: 
-- **Steam**: 
+
+<div align="left">
+  <a href="mailto:skepta100@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  
+  <img src="https://img.shields.io/badge/Discord-Skepta-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+
+  <a href="https://steamcommunity.com/id/Skepting/">
+    <img src="https://img.shields.io/badge/Steam-Skepting-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  </a>
+</div>
 
 ---
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Skepciak&label=Odwiedziny+profilu&color=blue&style=flat" alt="Licznik odwiedzin" />
+  <br />
+  <br />
   <i>"Kod jest jak dowcip. Jeśli musisz go tłumaczyć, to znaczy, że jest słaby." – Cory House</i>
 </p>
